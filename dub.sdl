@@ -1,0 +1,11 @@
+name "sauna-dose"
+description "Sauna dose-response arithmetic: minimum adaptation dose, plasma-volume decay below threshold, rehydration and pre-bed scheduling gates"
+authors "James Verlander"
+homepage "https://hackedself.com"
+license "MIT"
+targetType "library"
+
+configuration "demo" {
+    targetType "executable"
+    mainSourceFile "demo/main.d"
+}
