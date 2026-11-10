@@ -1,0 +1,6 @@
+site_name: sauna-dose
+site_description: 'Sauna dose-response arithmetic in D: weekly thermal minutes, the 4-session minimum dose floor, plasma-volume decay, rehydration and pre-bed scheduling gates.'
+repo_url: https://github.com/scrapertweeter3-prog/sauna-dose-d
+repo_name: scrapertweeter3-prog/sauna-dose-d
+nav:
+  - Home: index.md
